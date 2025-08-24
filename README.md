@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **Core Java, Jsp, servlets, Jdbc , Springboot**
 
-- 💬 Ask me about ** Html,Css,Js ,Python,Flask , Django**
+- 💬 Ask me about ** Html,Css,Js ,Python,Flask , Django, REST APIs
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

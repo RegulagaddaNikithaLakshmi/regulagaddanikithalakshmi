@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikitha Lakshmi</h1>
-<h3 align="center">A passionate java full stack from India</h3>
+<h3 align="center">A passionate python full stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=regulagaddanikithalakshmi&label=Profile%20views&color=0e75b6&style=flat" alt="regulagaddanikithalakshmi" /> </p>
 

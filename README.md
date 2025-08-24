@@ -44,3 +44,11 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regulagaddanikithalakshmi&show_icons=true&locale=en&layout=compact" alt="regulagaddanikithalakshmi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regulagaddanikithalakshmi&show_icons=true&locale=en" alt="regulagaddanikithalakshmi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=regulagaddanikithalakshmi&" alt="regulagaddanikithalakshmi" /></p>
+
+

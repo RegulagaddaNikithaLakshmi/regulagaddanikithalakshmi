@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=regulagaddanikithalakshmi" alt="regulagaddanikithalakshmi" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java, Jsp, servlets, Jdbc , Springboot, Python, Html\css, Flask, Django,**
+- 🌱 I’m currently learning **Core Java, Jsp, servlets, Jdbc , Springboot**
 
-- 💬 Ask me about **Python, Html\Css, Flask , Django**
+- 💬 Ask me about ** Html,Css,Js ,Python,Flask , Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

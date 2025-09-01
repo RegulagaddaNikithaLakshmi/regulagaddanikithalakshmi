@@ -14,7 +14,7 @@
 ---
 
 ### 🌱 I’m currently learning
-- Python, Flask, Django, REST APIs, Core Java, JSP, Servlets, JDBC, Spring Boot
+ Core Java, JSP, Servlets, JDBC, Spring Boot
 
 ### 💬 Ask me about
 - HTML, CSS, JavaScript, Python, Flask, Django, REST APIs
